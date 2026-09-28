@@ -1,8 +1,8 @@
-# PocketSmart AI: Your Smart Budget & Recommendation Assistant
+# 📊💵PocketSmart AI: Your Smart Budget & Recommendation Assistant
 
 PocketSmart AI is an AI-powered personal financial assistant built with **Streamlit** and **Google Gemini AI** to give users tailored budget insights and savings recommendations.
 
-## Setup Instructions
+## 📁Setup Instructions
 
 1. **Clone the repository:**
    ```bash
@@ -44,7 +44,7 @@ PocketSmart AI is an AI-powered personal financial assistant built with **Stream
     ├── project_report.pdf
     └── screenshots/
 ```
-## Backend Setup
+## ⚙️Backend Setup
 
 ```
 Backend:
@@ -56,7 +56,7 @@ Financial health score
 Recommendation engine
 CSV import/export
 ```
-**Main Backend Scripts:**
+**⚙️Main Backend Scripts:**
 
 ```
 # database.py
@@ -79,7 +79,7 @@ def calculate_savings_rate(income, expenses):
     return ((income - expenses) / income) * 100
 ```
 
-## Frontend Setup
+## 🖥️Frontend Setup
 ```
 Frontend:
 Tkinter GUI
@@ -95,7 +95,7 @@ CSV Import/Export
 ```
 
 
-## Lab Environment Setup
+## 🔬Lab Environment Setup
 
 ```
 git clone https://github.com/naveenprasad23042008-coder/PocketSmart_AI.git
@@ -105,25 +105,25 @@ cd PocketSmart_AI
 python -m venv venv
 ```
 
-**Windows:**
+**🪟Windows:**
 
 ```
 venv\Scripts\activate
 ```
 
-**Install Packages:**
+**📦Install Packages:**
 
 ```
 pip install -r requirements.txt
 ```
 
-**Run:**
+**🏃Run:**
 
 ```
 python app.py
 ```
 
-## Development Scripts
+## 🚀Development Scripts
 
 ```
 # scripts/run.py
