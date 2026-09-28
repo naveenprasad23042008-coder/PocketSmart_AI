@@ -43,3 +43,54 @@ PocketSmart AI is an AI-powered personal financial assistant built with **Stream
 └── docs/
     ├── project_report.pdf
     └── screenshots/
+```
+3. **Backend Setup**
+
+```
+
+```
+**Main Backend Scripts:**
+
+```
+
+```
+
+```
+
+```
+
+4. **Frontend Setup**
+```
+
+```
+
+
+## Lab Environment Setup
+
+**Windows:**
+
+```
+
+```
+
+**Install Packages:**
+
+```
+
+```
+
+**Run:**
+
+```
+
+```
+
+## Development Scripts
+
+```
+
+```
+
+```
+
+```
