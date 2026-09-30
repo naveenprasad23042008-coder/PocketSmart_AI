@@ -29,7 +29,7 @@
 1. R. Naveen Prasad
 2. D. Babu
 3. D. Durairaj
-4. Yesuraja V
+4. V. Yesuraja
 5. R. Mohammad Haris
 
 Replace the placeholder files with your team's PocketSmart AI project deliverables.
